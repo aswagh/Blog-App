@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.Foooter{
+bottom: auto;
+display: block;
+padding: 3px;
+background-color: rgb(7, 7, 52);
+color: rgb(255, 255, 255);
+
+}
